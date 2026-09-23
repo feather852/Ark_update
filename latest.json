@@ -1,11 +1,11 @@
 {
-  "latest_app_version": "v1.0.0006",
+  "latest_app_version": "v1.0.0005",
   "min_app_version": "1.0.0000",
-  "apk_version_code": 10006,
-  "apk_url": "https://github.com/feather852/Ark_update/releases/download/v1.0.0006/Ark_code_helper_v1.0.0006_mod.apk",
-  "github_apk_url": "https://github.com/feather852/Ark_update/releases/download/v1.0.0006/Ark_code_helper_v1.0.0006_mod.apk",
-  "apk_sha256": "C685020E900063A37BAAF18E94ED601D165CB4A43AFE9C872C52924CCD01733E",
-  "updated_at": "2026-09-23 09:54:30",
-  "message": "Ark_code_helper v1.0.0006 模組化 OTA 更新版本",
+  "apk_version_code": 10005,
+  "apk_url": "https://github.com/feather852/Ark_update/releases/download/v1.0.0005/Ark_code_helper_v1.0.0005_mod.apk",
+  "github_apk_url": "https://github.com/feather852/Ark_update/releases/download/v1.0.0005/Ark_code_helper_v1.0.0005_mod.apk",
+  "apk_sha256": "77C89883137B90638F2D0A87A5E7EF98AB2275CDA865596AA2F49550853430E4",
+  "updated_at": "2026-09-23 10:10:27",
+  "message": "Ark_code_helper v1.0.0005 模組化 OTA 更新版本 (修正啟動閃退)",
   "announcements": []
 }
